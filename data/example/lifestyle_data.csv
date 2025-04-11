@@ -1,0 +1,101 @@
+id,age,gender,height_cm,weight_kg,bmi,waist_circumference_cm,hip_circumference_cm,diet,alcohol_consumption,smoking_status,exercise_min_per_week,sleep_hours_per_day,stress_level,current_diseases,supplements,family_history
+SUBJ001,56,Female,187.9,68.1,<function <lambda> at 0x101469c60>,99.1,108.4,Keto,Occasional,Former,201,6.1,6,Hypothyroidism,None,Hypertension
+SUBJ002,69,Female,175.8,58.3,<function <lambda> at 0x101469c60>,105.5,89.3,Vegetarian,Occasional,Current,116,5.6,8,None,,"Hypertension, Hypertension"
+SUBJ003,46,Female,173.0,88.0,<function <lambda> at 0x101469c60>,74.5,93.0,Keto,Occasional,Current,153,6.3,9,Hypertension,,"Dementia, Diabetes"
+SUBJ004,32,Female,159.7,89.4,<function <lambda> at 0x101469c60>,93.1,90.3,Vegetarian,Regular,Never,290,7.5,2,Hypertension,"Vitamin D, Calcium","Cancer, CAD"
+SUBJ005,60,Male,155.8,81.3,<function <lambda> at 0x101469c60>,97.2,114.4,Mediterranean,None,Never,62,5.6,9,CAD,Omega-3,"None, Diabetes"
+SUBJ006,25,Female,171.9,46.7,<function <lambda> at 0x101469c60>,97.0,93.0,Non-Vegetarian,None,Former,243,7.7,9,Asthma,,Diabetes
+SUBJ007,78,Male,171.4,109.1,<function <lambda> at 0x101469c60>,107.1,98.6,Non-Vegetarian,Regular,Current,24,6.5,7,Diabetes,,"Diabetes, Hypertension"
+SUBJ008,38,Female,176.1,77.2,<function <lambda> at 0x101469c60>,96.7,94.0,Vegetarian,None,Current,89,7.3,1,Hypertension,,Dementia
+SUBJ009,56,Female,177.0,83.1,<function <lambda> at 0x101469c60>,72.8,96.9,Non-Vegetarian,Occasional,Never,74,6.6,7,Hypothyroidism,"Vitamin D, Probiotics",Dementia
+SUBJ010,75,Male,173.6,52.5,<function <lambda> at 0x101469c60>,98.9,92.6,Keto,Occasional,Former,293,5.8,5,CAD,,CAD
+SUBJ011,36,Female,155.3,74.8,<function <lambda> at 0x101469c60>,76.8,104.6,Vegan,Occasional,Never,209,9.7,6,Diabetes,"None, Omega-3","CAD, Dementia"
+SUBJ012,40,Male,178.9,81.2,<function <lambda> at 0x101469c60>,79.5,89.6,Vegetarian,None,Never,16,8.6,7,CAD,Vitamin D,Hypertension
+SUBJ013,28,Female,168.9,72.9,<function <lambda> at 0x101469c60>,83.7,86.5,Non-Vegetarian,Occasional,Never,127,4.8,5,Diabetes,,Hypertension
+SUBJ014,28,Female,160.4,88.1,<function <lambda> at 0x101469c60>,88.3,94.4,Vegetarian,Regular,Never,250,9.2,7,Diabetes,Probiotics,"CAD, Diabetes"
+SUBJ015,41,Male,165.9,94.5,<function <lambda> at 0x101469c60>,66.8,92.0,Vegetarian,Regular,Current,178,6.9,9,None,"None, Calcium",None
+SUBJ016,70,Female,156.0,54.8,<function <lambda> at 0x101469c60>,106.8,86.6,Vegan,None,Current,181,9.4,3,Hypertension,,"Hypertension, None"
+SUBJ017,53,Male,166.6,87.8,<function <lambda> at 0x101469c60>,72.7,96.8,Keto,Regular,Never,151,8.8,8,CAD,Probiotics,"Dementia, Cancer"
+SUBJ018,57,Female,177.5,80.9,<function <lambda> at 0x101469c60>,113.6,83.4,Vegetarian,Regular,Former,24,6.6,2,CAD,Probiotics,
+SUBJ019,41,Male,166.7,74.9,<function <lambda> at 0x101469c60>,73.1,117.3,Non-Vegetarian,None,Former,179,4.1,7,None,"Multivitamin, Probiotics",
+SUBJ020,20,Male,161.4,51.4,<function <lambda> at 0x101469c60>,109.2,85.1,Mediterranean,Occasional,Former,197,5.6,2,Hypothyroidism,Multivitamin,"Hypertension, CAD"
+SUBJ021,39,Female,167.4,97.2,<function <lambda> at 0x101469c60>,89.6,93.5,Vegetarian,Occasional,Former,160,7.2,4,Hypothyroidism,None,"None, Dementia"
+SUBJ022,70,Female,174.6,81.0,<function <lambda> at 0x101469c60>,64.3,96.0,Vegetarian,Occasional,Never,176,7.8,7,Hypertension,,
+SUBJ023,19,Male,156.5,48.3,<function <lambda> at 0x101469c60>,74.4,116.8,Vegan,None,Current,284,5.5,3,Hypertension,Vitamin D,
+SUBJ024,41,Female,159.8,71.4,<function <lambda> at 0x101469c60>,109.9,82.7,Keto,Regular,Former,62,4.8,2,Asthma,"Vitamin D, Vitamin D","Cancer, CAD"
+SUBJ025,61,Female,171.3,79.9,<function <lambda> at 0x101469c60>,96.7,101.4,Mediterranean,Occasional,Never,149,9.0,7,None,Calcium,None
+SUBJ026,47,Female,157.5,82.6,<function <lambda> at 0x101469c60>,88.8,110.4,Non-Vegetarian,Occasional,Former,153,9.9,1,Hypothyroidism,"Omega-3, Probiotics",CAD
+SUBJ027,55,Male,189.5,73.1,<function <lambda> at 0x101469c60>,56.7,96.9,Mediterranean,None,Former,155,7.2,8,Diabetes,,Cancer
+SUBJ028,19,Male,168.5,80.1,<function <lambda> at 0x101469c60>,110.8,88.3,Non-Vegetarian,Occasional,Never,48,5.0,3,CAD,"Calcium, Omega-3",
+SUBJ029,77,Male,160.9,106.8,<function <lambda> at 0x101469c60>,118.1,98.9,Keto,None,Current,83,5.6,2,Hypertension,,"CAD, Dementia"
+SUBJ030,38,Male,161.8,98.2,<function <lambda> at 0x101469c60>,115.3,115.3,Non-Vegetarian,Regular,Current,176,4.1,3,CAD,Omega-3,CAD
+SUBJ031,50,Male,165.2,60.8,<function <lambda> at 0x101469c60>,80.8,93.8,Vegan,None,Never,147,9.5,5,CAD,"Vitamin D, Vitamin D","Cancer, Cancer"
+SUBJ032,29,Male,164.3,66.0,<function <lambda> at 0x101469c60>,95.7,114.4,Vegan,None,Current,117,4.7,8,Asthma,None,Diabetes
+SUBJ033,75,Male,149.1,73.3,<function <lambda> at 0x101469c60>,97.4,102.6,Vegan,None,Never,62,7.5,7,Hypothyroidism,Calcium,"Dementia, Diabetes"
+SUBJ034,39,Male,182.6,48.8,<function <lambda> at 0x101469c60>,67.1,112.3,Vegan,None,Never,188,5.6,7,Hypertension,,Cancer
+SUBJ035,78,Male,169.8,54.9,<function <lambda> at 0x101469c60>,92.7,102.2,Mediterranean,Regular,Never,48,7.3,7,CAD,"Calcium, Multivitamin","Hypertension, Cancer"
+SUBJ036,61,Female,169.7,50.7,<function <lambda> at 0x101469c60>,106.1,95.2,Keto,Regular,Current,256,7.9,8,Hypertension,"Calcium, Calcium",
+SUBJ037,42,Male,178.2,57.8,<function <lambda> at 0x101469c60>,101.5,116.4,Non-Vegetarian,Occasional,Never,223,9.0,1,Diabetes,"Probiotics, Vitamin D",Dementia
+SUBJ038,66,Female,159.5,95.8,<function <lambda> at 0x101469c60>,73.3,102.3,Non-Vegetarian,Regular,Former,140,5.2,4,Asthma,"None, Probiotics",Diabetes
+SUBJ039,44,Female,162.4,62.2,<function <lambda> at 0x101469c60>,77.1,101.7,Vegan,Regular,Current,214,4.1,6,Diabetes,Omega-3,"Diabetes, Dementia"
+SUBJ040,76,Female,174.6,59.6,<function <lambda> at 0x101469c60>,101.9,108.1,Vegan,Occasional,Current,210,4.8,9,Hypertension,"Omega-3, Multivitamin",Cancer
+SUBJ041,59,Male,169.4,88.2,<function <lambda> at 0x101469c60>,99.5,109.2,Vegetarian,Regular,Current,31,9.4,2,Hypertension,Probiotics,Dementia
+SUBJ042,45,Male,173.4,68.3,<function <lambda> at 0x101469c60>,56.2,108.1,Keto,None,Current,157,9.2,1,Hypothyroidism,,Hypertension
+SUBJ043,77,Male,169.2,81.3,<function <lambda> at 0x101469c60>,53.2,86.5,Mediterranean,None,Former,284,7.6,2,CAD,,Hypertension
+SUBJ044,33,Male,167.6,64.1,<function <lambda> at 0x101469c60>,88.9,93.6,Non-Vegetarian,Occasional,Current,285,7.6,7,CAD,"Calcium, Omega-3","CAD, Hypertension"
+SUBJ045,32,Female,184.3,48.0,<function <lambda> at 0x101469c60>,81.2,93.4,Vegetarian,Occasional,Current,143,8.0,3,Diabetes,Omega-3,Cancer
+SUBJ046,79,Male,180.7,82.0,<function <lambda> at 0x101469c60>,85.5,92.2,Vegetarian,Occasional,Never,18,5.1,2,Asthma,,"Cancer, Hypertension"
+SUBJ047,79,Male,145.0,51.7,<function <lambda> at 0x101469c60>,83.8,91.3,Non-Vegetarian,None,Current,17,9.5,7,None,,
+SUBJ048,64,Male,184.8,67.3,<function <lambda> at 0x101469c60>,104.8,93.3,Mediterranean,Regular,Former,256,6.5,2,CAD,"Omega-3, Multivitamin","Diabetes, CAD"
+SUBJ049,79,Male,191.6,64.0,<function <lambda> at 0x101469c60>,91.6,103.4,Vegetarian,None,Former,77,6.3,3,Hypothyroidism,Probiotics,Dementia
+SUBJ050,68,Male,182.3,77.9,<function <lambda> at 0x101469c60>,94.0,104.9,Vegetarian,Occasional,Former,174,7.1,7,Diabetes,Vitamin D,Hypertension
+SUBJ051,61,Female,167.9,66.7,<function <lambda> at 0x101469c60>,69.9,100.0,Keto,Regular,Former,193,4.3,4,Diabetes,,None
+SUBJ052,72,Male,163.1,73.1,<function <lambda> at 0x101469c60>,39.5,95.7,Mediterranean,Regular,Current,112,5.0,1,None,"Multivitamin, Multivitamin",Cancer
+SUBJ053,69,Female,177.3,51.6,<function <lambda> at 0x101469c60>,106.9,112.8,Vegetarian,None,Current,113,8.4,5,Hypothyroidism,Probiotics,
+SUBJ054,74,Male,163.8,105.0,<function <lambda> at 0x101469c60>,122.1,99.1,Mediterranean,Occasional,Former,221,4.5,9,Asthma,"Probiotics, None",Cancer
+SUBJ055,20,Female,173.6,57.0,<function <lambda> at 0x101469c60>,84.9,109.4,Non-Vegetarian,None,Former,165,7.6,8,Hypothyroidism,,
+SUBJ056,54,Male,169.8,93.0,<function <lambda> at 0x101469c60>,93.7,94.3,Vegan,Regular,Current,131,5.5,9,Asthma,,None
+SUBJ057,68,Male,182.2,77.2,<function <lambda> at 0x101469c60>,94.9,104.1,Vegetarian,None,Former,263,6.3,9,Hypothyroidism,,
+SUBJ058,24,Female,166.1,77.1,<function <lambda> at 0x101469c60>,115.1,113.4,Keto,None,Never,54,5.7,7,Hypothyroidism,,"None, Diabetes"
+SUBJ059,38,Female,165.6,80.3,<function <lambda> at 0x101469c60>,103.3,73.9,Non-Vegetarian,Occasional,Former,130,6.1,4,Hypertension,"Omega-3, None",None
+SUBJ060,26,Female,173.8,46.8,<function <lambda> at 0x101469c60>,97.4,93.4,Mediterranean,Occasional,Former,287,8.3,5,Diabetes,Probiotics,
+SUBJ061,56,Male,189.3,89.5,<function <lambda> at 0x101469c60>,90.8,105.9,Non-Vegetarian,Regular,Never,265,5.8,1,Hypothyroidism,"Omega-3, Calcium","Diabetes, Diabetes"
+SUBJ062,35,Female,170.8,67.3,<function <lambda> at 0x101469c60>,90.9,112.1,Vegetarian,None,Never,161,7.4,1,None,,CAD
+SUBJ063,21,Male,165.8,93.2,<function <lambda> at 0x101469c60>,68.4,102.0,Mediterranean,None,Current,86,6.9,3,Hypothyroidism,Omega-3,
+SUBJ064,42,Male,178.6,72.7,<function <lambda> at 0x101469c60>,84.2,100.5,Vegan,None,Current,54,8.0,8,CAD,Multivitamin,
+SUBJ065,77,Female,177.2,69.4,<function <lambda> at 0x101469c60>,103.3,116.1,Non-Vegetarian,Regular,Never,287,9.6,2,Diabetes,None,"Diabetes, Dementia"
+SUBJ066,31,Female,160.5,55.6,<function <lambda> at 0x101469c60>,86.5,112.7,Vegetarian,Regular,Never,177,8.4,4,CAD,"Multivitamin, None",
+SUBJ067,67,Male,164.6,63.5,<function <lambda> at 0x101469c60>,90.7,91.3,Keto,Occasional,Current,7,5.3,2,Diabetes,,"CAD, Hypertension"
+SUBJ068,75,Male,181.0,81.3,<function <lambda> at 0x101469c60>,72.4,101.2,Mediterranean,Occasional,Former,246,4.2,5,CAD,Multivitamin,"None, None"
+SUBJ069,26,Female,174.3,55.4,<function <lambda> at 0x101469c60>,96.7,103.6,Non-Vegetarian,Occasional,Never,254,5.6,9,Hypothyroidism,"None, None",Cancer
+SUBJ070,43,Female,145.3,45.1,<function <lambda> at 0x101469c60>,68.1,117.2,Non-Vegetarian,None,Current,53,7.6,1,Hypothyroidism,,Dementia
+SUBJ071,70,Female,174.8,62.1,<function <lambda> at 0x101469c60>,94.3,108.7,Vegan,None,Former,248,4.3,5,Hypertension,,Diabetes
+SUBJ072,19,Male,179.3,87.6,<function <lambda> at 0x101469c60>,87.2,99.0,Vegan,Occasional,Never,238,7.0,9,None,Omega-3,
+SUBJ073,37,Male,161.6,101.7,<function <lambda> at 0x101469c60>,63.9,102.2,Keto,None,Former,228,7.6,1,CAD,,
+SUBJ074,45,Male,176.8,64.8,<function <lambda> at 0x101469c60>,106.0,81.2,Keto,Occasional,Current,66,6.0,9,Asthma,,"Dementia, Diabetes"
+SUBJ075,64,Male,188.7,51.8,<function <lambda> at 0x101469c60>,87.5,109.7,Vegetarian,Regular,Never,50,8.6,8,Hypertension,,
+SUBJ076,77,Male,174.0,69.9,<function <lambda> at 0x101469c60>,117.9,106.5,Vegetarian,Occasional,Former,96,4.6,4,CAD,None,Dementia
+SUBJ077,24,Male,163.7,77.8,<function <lambda> at 0x101469c60>,112.2,112.1,Keto,Regular,Never,91,4.5,5,CAD,None,
+SUBJ078,61,Female,164.8,83.7,<function <lambda> at 0x101469c60>,76.8,98.6,Keto,None,Former,263,8.4,5,Hypertension,"None, Omega-3","Cancer, Cancer"
+SUBJ079,78,Male,170.1,107.0,<function <lambda> at 0x101469c60>,78.1,101.3,Mediterranean,Occasional,Current,290,7.0,6,Hypothyroidism,,
+SUBJ080,25,Male,173.8,78.4,<function <lambda> at 0x101469c60>,72.4,95.2,Vegan,None,Current,95,8.1,7,CAD,,
+SUBJ081,64,Male,170.6,99.8,<function <lambda> at 0x101469c60>,66.2,88.5,Vegetarian,Regular,Never,87,6.6,8,Hypothyroidism,,
+SUBJ082,52,Female,175.0,68.1,<function <lambda> at 0x101469c60>,83.7,94.0,Vegan,Regular,Former,77,5.5,8,Hypertension,Multivitamin,"None, Dementia"
+SUBJ083,31,Male,168.5,76.3,<function <lambda> at 0x101469c60>,111.7,81.8,Vegan,Regular,Never,287,8.9,2,Hypothyroidism,"None, Omega-3","Cancer, Dementia"
+SUBJ084,34,Male,171.8,66.1,<function <lambda> at 0x101469c60>,61.3,109.1,Keto,None,Never,119,8.8,9,Diabetes,,None
+SUBJ085,53,Female,179.6,64.8,<function <lambda> at 0x101469c60>,102.8,78.3,Mediterranean,None,Former,164,8.2,7,Asthma,,Diabetes
+SUBJ086,67,Male,159.4,71.0,<function <lambda> at 0x101469c60>,101.5,120.3,Non-Vegetarian,None,Former,181,5.6,4,CAD,,"Cancer, Dementia"
+SUBJ087,57,Male,171.1,70.8,<function <lambda> at 0x101469c60>,98.3,82.4,Mediterranean,None,Former,222,7.5,4,None,None,Cancer
+SUBJ088,21,Male,171.1,65.9,<function <lambda> at 0x101469c60>,101.0,115.0,Mediterranean,Regular,Current,6,6.2,8,Asthma,Probiotics,
+SUBJ089,19,Male,179.2,66.8,<function <lambda> at 0x101469c60>,73.4,90.9,Vegan,Regular,Never,262,4.5,4,Hypothyroidism,,"CAD, None"
+SUBJ090,79,Male,167.7,91.5,<function <lambda> at 0x101469c60>,101.4,105.6,Mediterranean,Occasional,Never,160,9.5,6,CAD,Vitamin D,
+SUBJ091,23,Female,176.5,106.7,<function <lambda> at 0x101469c60>,81.8,92.5,Vegetarian,Occasional,Current,150,4.8,5,Hypothyroidism,,
+SUBJ092,71,Female,181.0,67.5,<function <lambda> at 0x101469c60>,53.1,116.7,Vegan,None,Former,84,9.7,3,Diabetes,Multivitamin,"Cancer, Diabetes"
+SUBJ093,59,Female,151.5,70.1,<function <lambda> at 0x101469c60>,90.9,100.4,Vegetarian,Regular,Current,146,6.7,2,Hypertension,,
+SUBJ094,21,Male,181.7,82.9,<function <lambda> at 0x101469c60>,77.3,110.7,Non-Vegetarian,Regular,Current,111,5.1,9,CAD,,"None, Dementia"
+SUBJ095,71,Male,160.1,122.8,<function <lambda> at 0x101469c60>,110.4,100.8,Vegan,Regular,Current,35,7.3,9,Diabetes,,Dementia
+SUBJ096,46,Male,159.1,76.3,<function <lambda> at 0x101469c60>,85.7,103.5,Non-Vegetarian,Occasional,Never,284,9.2,1,Diabetes,Multivitamin,
+SUBJ097,35,Female,141.2,89.6,<function <lambda> at 0x101469c60>,90.7,106.2,Vegan,Occasional,Current,187,8.4,3,CAD,,CAD
+SUBJ098,43,Male,162.0,98.2,<function <lambda> at 0x101469c60>,95.8,94.7,Keto,Regular,Never,81,8.8,8,Hypothyroidism,None,"None, Hypertension"
+SUBJ099,61,Male,170.0,80.2,<function <lambda> at 0x101469c60>,86.0,87.2,Mediterranean,Regular,Never,1,8.0,6,None,"Vitamin D, None",
+SUBJ100,51,Female,166.2,88.9,<function <lambda> at 0x101469c60>,88.4,87.0,Keto,Regular,Never,196,8.2,5,Diabetes,"Vitamin D, None",Cancer

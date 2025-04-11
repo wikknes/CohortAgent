@@ -1,0 +1,2 @@
+[console_scripts]
+cohortagent = src.cli:main
