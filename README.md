@@ -8,6 +8,8 @@ A multimodal agent for analyzing health data locally using Google's ADK framewor
 - Performs statistical analysis and visualization of health data
 - Maintains data privacy by keeping all operations local
 - Handles lifestyle questionnaires, scans, blood biochemistry, and various omics datasets
+- Interactive GUI with data visualization and treemap data exploration
+- Natural language interface for data analysis and visualization
 
 ## Installation
 
@@ -35,11 +37,32 @@ ollama pull llava
 # Run with a direct query
 cohortagent --query "Analyze the correlation between lifestyle and biochemistry data"
 
-# Run in interactive mode
+# Run in interactive CLI mode
 cohortagent --interactive
+
+# Launch the interactive GUI dashboard
+cohortagent --gui
 
 # Specify custom paths
 cohortagent --data-dir /path/to/data --scan-dir /path/to/scans --output-dir /path/to/output
+```
+
+### Interactive GUI Dashboard
+
+The GUI provides a rich interface for interacting with the CohortAgent:
+
+- **Query Interface**: Natural language query input with visualization display
+- **Data Explorer**: Interactive treemap visualization of available datasets
+- **Results History**: Browse and download past analysis results
+
+To launch the GUI:
+
+```bash
+# Using the CLI tool
+cohortagent --gui
+
+# Or use the provided script
+./launch_gui.sh
 ```
 
 ### Python API
@@ -53,6 +76,13 @@ agent = CohortAgent(model_name="ollama/llava")
 # Run a query
 response = agent.run("Analyze the relationship between lifestyle and proteomics data")
 print(response)
+
+# For GUI applications
+from src.gui import CohortAgentGUI
+
+# Initialize and run the GUI
+gui = CohortAgentGUI(model_name="ollama/llava")
+gui.run()  # This starts the Streamlit application
 ```
 
 ## Sample Data

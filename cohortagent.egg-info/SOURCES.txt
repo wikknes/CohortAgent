@@ -9,5 +9,6 @@ cohortagent.egg-info/top_level.txt
 src/__init__.py
 src/agent.py
 src/cli.py
+src/gui.py
 src/tools.py
 src/utils.py
