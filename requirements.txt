@@ -1,0 +1,9 @@
+google-adk
+litellm
+pandas
+matplotlib
+seaborn
+pillow
+numpy
+scipy
+scikit-learn

@@ -1,0 +1,11 @@
+patient_id,age,gender,exercise_hours_per_week,sleep_hours_per_day,smoking_status,alcohol_units_per_week,diet_type,stress_level
+1001,35,F,5.5,7.5,never,3,omnivore,3
+1002,42,M,3.0,6.0,former,10,omnivore,4
+1003,28,F,8.0,8.0,never,1,vegetarian,2
+1004,55,M,2.0,5.5,current,14,omnivore,5
+1005,39,F,4.5,7.0,never,5,pescatarian,3
+1006,47,M,1.0,6.5,current,18,omnivore,4
+1007,31,F,6.0,7.5,never,2,vegan,2
+1008,63,M,3.5,6.0,former,8,omnivore,3
+1009,25,F,10.0,8.5,never,4,vegetarian,1
+1010,51,M,2.5,6.5,current,12,omnivore,4
