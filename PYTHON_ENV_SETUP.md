@@ -3,6 +3,7 @@
 ## Prerequisites
 - Python 3.6+
 - pip (Python package installer)
+- Ollama (for local LLM deployment)
 
 ## Setting Up the Environment
 
@@ -29,7 +30,20 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-### 3. Verify Installation
+### 3. Set Up Ollama for Local Multimodal LLM
+
+```bash
+# Install Ollama
+# Download from https://ollama.ai/download
+
+# Pull the LLaVA model (required for image processing functionality)
+ollama pull llava
+
+# Verify Ollama is running
+# Ollama should run as a service on http://localhost:11434
+```
+
+### 4. Verify Installation
 
 Ensure all dependencies are correctly installed by checking:
 
@@ -48,7 +62,7 @@ You should see all the required packages installed:
 - scipy
 - scikit-learn
 
-### 4. Running Tests
+### 5. Running Tests
 
 ```bash
 # To run tool-specific tests
@@ -73,6 +87,18 @@ If you encounter the error `ModuleNotFoundError: No module named 'seaborn'` or s
    pip install matplotlib
    # etc.
    ```
+
+If you have issues with the LLM functionality:
+
+1. Verify Ollama is running:
+   ```bash
+   curl http://localhost:11434/api/tags
+   ```
+2. Check that the LLaVA model is properly installed:
+   ```bash
+   ollama list
+   ```
+3. If needed, restart the Ollama service
 
 ### Cleaning Up
 
